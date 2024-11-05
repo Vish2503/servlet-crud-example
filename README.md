@@ -80,7 +80,7 @@ Run the Java Project using NetBeans and access the web application at `http://lo
 
 ![home_edit](screenshots/home_edit.PNG)
 
-![home_edit2](screenshots/home_edit2.PNG
+![home_edit2](screenshots/home_edit2.PNG)
 
 ![admin](screenshots/admin.PNG)
 
