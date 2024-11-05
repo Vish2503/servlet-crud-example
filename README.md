@@ -68,25 +68,25 @@ Run the Java Project using NetBeans and access the web application at `http://lo
 
 ## Screenshots
 
-![login](https://github.com/user-attachments/assets/2c3e7452-1272-4ec6-b8d6-687f96b37410)
+![login](screenshots/login.PNG)
 
-![login_wrongpassword](https://github.com/user-attachments/assets/a3d0f1ae-9511-46f7-9bae-4f6b5412a739)
+![login_wrongpassword](screenshots/login_wrongpassword)
 
-![register](https://github.com/user-attachments/assets/f9e0ced5-c623-429a-bf91-634de50a751f)
+![register](screenshots/register)
 
-![register_usernamealreadyexists](https://github.com/user-attachments/assets/aa9c99b2-aef1-4792-bed6-7c4f7dd8da56)
+![register_usernamealreadyexists](screenshots/register_usernamealreadyexists)
 
-![home](https://github.com/user-attachments/assets/7a35a40d-fca6-49ff-9e0b-b422b2edcbcb)
+![home](screenshots/home)
 
-![home_edit](https://github.com/user-attachments/assets/eb155260-03b9-4ab2-9b4e-2ce663b50d22)
+![home_edit](screenshots/home_edit)
 
-![home_edit2](https://github.com/user-attachments/assets/5ca123f8-df0e-4043-893b-cbf55c6183f3)
+![home_edit2](screenshots/home_edit2)
 
-![admin](https://github.com/user-attachments/assets/713d57c9-09b8-46d9-989d-f559ed53a680)
+![admin](screenshots/admin)
 
-![admin_page3](https://github.com/user-attachments/assets/f029c74d-7a22-49bb-bfe5-7cf98a2830bd)
+![admin_page3](screenshots/admin_page3)
 
-![admin_edit](https://github.com/user-attachments/assets/93549164-fab3-475f-8796-3335aa710b82)
+![admin_edit](screenshots/admin_edit)
 
 ## License
 
