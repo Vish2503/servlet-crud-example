@@ -70,23 +70,23 @@ Run the Java Project using NetBeans and access the web application at `http://lo
 
 ![login](screenshots/login.PNG)
 
-![login_wrongpassword](screenshots/login_wrongpassword)
+![login_wrongpassword](screenshots/login_wrongpassword.PNG)
 
-![register](screenshots/register)
+![register](screenshots/register.PNG)
 
-![register_usernamealreadyexists](screenshots/register_usernamealreadyexists)
+![register_usernamealreadyexists](screenshots/register_usernamealreadyexists.PNG)
 
-![home](screenshots/home)
+![home](screenshots/home.PNG)
 
-![home_edit](screenshots/home_edit)
+![home_edit](screenshots/home_edit.PNG)
 
-![home_edit2](screenshots/home_edit2)
+![home_edit2](screenshots/home_edit2.PNG
 
-![admin](screenshots/admin)
+![admin](screenshots/admin.PNG)
 
-![admin_page3](screenshots/admin_page3)
+![admin_page3](screenshots/admin_page3.PNG)
 
-![admin_edit](screenshots/admin_edit)
+![admin_edit](screenshots/admin_edit.PNG)
 
 ## License
 
