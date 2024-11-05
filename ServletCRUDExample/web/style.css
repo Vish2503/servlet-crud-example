@@ -1,0 +1,154 @@
+* {
+    font-family: Rubik;
+}
+
+a {
+    text-decoration: none;
+}
+
+nav {
+    padding: 1rem;
+    height: 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid grey;
+}
+
+nav .links {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav .links a {
+    padding: 0 0.5em;
+}
+
+.error {
+    background-color: #d9534f;
+    text-align: center;
+    padding: 1em;
+    font-family: Roboto;
+    color: black;
+    border-radius: 0.5em;
+}
+
+.register-login-form {
+    position: fixed;
+    height: 20em;
+    width: 20em;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -75%);
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+input {
+    margin: 1em 0;
+    padding: 8px;
+    border: 2px solid gray;
+    border-radius: 0.5em;
+}
+
+td input {
+    height: 100%;
+}
+
+td input[type='submit'] {
+    width: 100%;
+    padding: 0.5em 1em;
+}
+
+input:focus {
+    border: 2px solid black;
+    padding: 8px;
+}
+
+.table-name {
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 0;
+}
+
+.table-container {
+    display: block;
+    overflow-x: auto;
+    margin: auto;
+    width: 90%;
+}
+
+table {
+    margin: 25px auto;
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    border-radius: 0.5em;
+    overflow: hidden;
+}
+
+table thead tr {
+    background-color: #333333;
+    color: #ffffff;
+}
+
+table th, table td {
+    padding: 12px 15px;
+    border-right: 1px solid black;
+}
+
+table th:last-of-type, table td:last-of-type {
+    border-right: none;
+}
+
+table tbody tr {
+    border-bottom: 1px solid black;
+    text-align: left;
+}
+
+table tbody tr:last-of-type {
+    border-bottom: 2px solid #333333;
+}
+
+td div {
+    display: flex;
+    gap: 0.5em;
+    justify-content: center;
+}
+
+.center {
+    margin: 0;
+    width: 100%;
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    left:0;
+    margin-bottom: 10px;
+}
+
+.pagination {
+    display: inline-block;
+}
+
+.pagination a {
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    transition: background-color .3s;
+    border: 1px solid #ddd;
+    margin: 0 4px;
+}
+
+.pagination a.active {
+    background-color: #333333;
+    color: white;
+    border: 1px solid #333333;
+}
+
+.pagination a:hover:not(.active) {
+    background-color: #ddd;
+}
