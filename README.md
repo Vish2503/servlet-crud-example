@@ -25,7 +25,7 @@ cd servlet-crud-example
 ```
 
 ### Step 2: Configure the Database
-1. Create a MySQL database named servlet_crud_example.
+1. Create a MySQL database named `servlet_crud_example`.
 
 2. Run the following SQL commands to create the required table:
 ```sql
@@ -87,6 +87,8 @@ Run the Java Project using NetBeans and access the web application at `http://lo
 ![admin_page3](screenshots/admin_page3.PNG)
 
 ![admin_edit](screenshots/admin_edit.PNG)
+
+<p align='center' width='100%'> <img src="screenshots/mobile_login.jpg" width="49%"> <img src="screenshots/mobile_admin.jpg" width="49%"> </p>
 
 ## License
 
